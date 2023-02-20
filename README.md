@@ -94,3 +94,6 @@ Point your web browser to the ip address or FQDN of your Nagios Core server, for
 
 `` http://17.33.3.233/nagios ``
 
+# Nagios Architecture
+
+![image](https://user-images.githubusercontent.com/42967535/220137892-48ada28e-725b-45e7-920d-3cde7043c9ba.png)
