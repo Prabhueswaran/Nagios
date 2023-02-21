@@ -152,7 +152,7 @@ To monitor hosts, we need to add them to Nagios. By default, Nagios only monitor
 
 First, install *nagios-plugins* and *nagios-nrpe-server*:
 
-`` apt-get install nagios-plugins nagios-nrpe-server ``
+`` sudo apt-get install nagios-plugins nagios-nrpe-server ``
 
 ### Configure NRPE
 
@@ -171,7 +171,7 @@ Save the file when you are finished.
 
 Now restart NRPE:
 
-`` service nagios-nrpe-server restart ``
+`` sudo service nagios-nrpe-server restart ``
 
 # Add the Host to Nagios
 
